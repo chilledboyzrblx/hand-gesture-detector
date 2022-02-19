@@ -34,3 +34,9 @@ span
 #predictions{
   font-size:23px;
 }
+.gesture_name{
+  color:rgb(132, 255, 132);
+}
+.gesture_name2{
+  color:red;
+}
